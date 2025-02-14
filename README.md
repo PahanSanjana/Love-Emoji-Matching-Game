@@ -2,6 +2,8 @@
 
 A Valentine’s Day-themed matching game where players flip cards to find matching love-themed emojis within a time limit. Each successful match reveals a sweet love note, and completing the game rewards the player with a romantic surprise message. The game is fully responsive and works seamlessly on both desktop and mobile devices.
 
+![image alt](https://github.com/PahanSanjana/Love-Emoji-Matching-Game/blob/8186ae6bdeb798b4d560bc2e146dc61ba25c2ec1/Love%20Emoji%20Matching%20Game.png)
+
 ## Features
 
 *   **Phasal Gameplay:** The difficulty increases as players progress through the game.
