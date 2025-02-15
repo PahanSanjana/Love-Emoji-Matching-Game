@@ -65,6 +65,6 @@ love-emoji-matching-game/
 
 ## Demo
 
-You can play the game live [here]((https://pahansanjana.github.io/Love-Emoji-Matching-Game/)).
+You can play the game live [here](https://pahansanjana.github.io/Love-Emoji-Matching-Game/).
 
 Enjoy playing the 💖 Love Emoji Matching Game 💖 and spreading the love! 💌
